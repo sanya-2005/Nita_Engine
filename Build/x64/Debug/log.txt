@@ -1,0 +1,12 @@
+Nita Engine
+Version: 0.0.1 Alpha
+Build Type: Debug
+Run date: 23:07\20\10\2024
+--------------------------
+[GPU]:Default - Initializating Device and Swap Chain
+[Simple Mesh Render]:Default - Init Simple Mesh Render
+1.000000 0.000000 0.000000 0.000000 
+0.000000 1.000000 0.000000 0.000000 
+0.000000 0.000000 1.000000 0.000000 
+0.000000 0.000000 0.000000 1.000000 
+
