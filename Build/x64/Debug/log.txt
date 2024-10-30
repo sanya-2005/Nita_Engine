@@ -1,7 +1,7 @@
 Nita Engine
 Version: 0.0.1 Alpha
 Build Type: Debug
-Run date: 23:07\20\10\2024
+Run date: 15:24\30\10\2024
 --------------------------
 [GPU]:Default - Initializating Device and Swap Chain
 [Simple Mesh Render]:Default - Init Simple Mesh Render
@@ -10,3 +10,141 @@ Run date: 23:07\20\10\2024
 0.000000 0.000000 1.000000 0.000000 
 0.000000 0.000000 0.000000 1.000000 
 
+[Event System]:Default - ResizeEvent is handled
+Mouse coords: x= 891	y = 74
+Mouse coords: x= 891	y = 74
+Mouse coords: x= 891	y = 74
+Mouse coords: x= 891	y = 74
+[Event System]:Default - ResizeEvent is handled
+Mouse coords: x= 1015	y = 109
+Mouse coords: x= 1015	y = 109
+Mouse coords: x= 1015	y = 109
+Mouse coords: x= 1015	y = 109
+Mouse coords: x= 1015	y = 109
+Mouse coords: x= 940	y = 389
+Mouse coords: x= 940	y = 389
+Mouse coords: x= 940	y = 389
+Mouse coords: x= 940	y = 389
+Mouse coords: x= 940	y = 389
+Mouse coords: x= 940	y = 389
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 460
+Mouse coords: x= 1000	y = 462
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+Mouse coords: x= 856	y = 491
+Mouse coords: x= 857	y = 491
+Mouse coords: x= 859	y = 490
+Mouse coords: x= 868	y = 488
+Mouse coords: x= 882	y = 485
+Mouse coords: x= 899	y = 483
+Mouse coords: x= 915	y = 482
+Mouse coords: x= 926	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 927	y = 481
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1062	y = 476
+Mouse coords: x= 1060	y = 476
+Mouse coords: x= 1058	y = 476
+Mouse coords: x= 1056	y = 476
+Mouse coords: x= 1053	y = 476
+Mouse coords: x= 1048	y = 476
+Mouse coords: x= 1041	y = 476
+Mouse coords: x= 1029	y = 476
+Mouse coords: x= 961	y = 475
+Mouse coords: x= 955	y = 475
+Mouse coords: x= 952	y = 475
+Mouse coords: x= 952	y = 475
+Mouse coords: x= 952	y = 475
+Mouse coords: x= 952	y = 475
+Mouse coords: x= 952	y = 475
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Default]:Default - Right mouse button
+[Event System]:Default - CloseEvent is handled
+[OS Window]:Default - Window is Closed...
+[Nita Engine]:Default - Destroy Engine

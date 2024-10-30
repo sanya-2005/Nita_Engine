@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Win32_main.cpp" />
+    <ClCompile Include="OSWindow.cpp" />
+    <ClCompile Include="NitaEngine.cpp" />
+    <ClCompile Include="Win32Utils.cpp" />
+    <ClCompile Include="Event.cpp" />
+    <ClCompile Include="RenderEngine.cpp">
+      <Filter>RenderEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMeshRender.cpp">
+      <Filter>RenderEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp" />
+    <ClCompile Include="Object.cpp" />
+    <ClCompile Include="Level.cpp" />
+    <ClCompile Include="GPUResource.cpp">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClCompile>
+    <ClCompile Include="GPUShader.cpp">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderDevice.cpp">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderContext.cpp">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClCompile>
+    <ClCompile Include="GPUResourceStatistic.cpp">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClCompile>
+    <ClCompile Include="GPUVertexFormat.cpp">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp" />
+    <ClCompile Include="Log.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="BuildInfo.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OSWindow.h" />
+    <ClInclude Include="NitaEngine.h" />
+    <ClInclude Include="Win32Utils.h" />
+    <ClInclude Include="Event.h" />
+    <ClInclude Include="SimpleMeshRender.h">
+      <Filter>RenderEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderEngine.h">
+      <Filter>RenderEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="D3D11Utils.h">
+      <Filter>RenderEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals.h" />
+    <ClInclude Include="Object.h" />
+    <ClInclude Include="Material.h" />
+    <ClInclude Include="Mesh.h" />
+    <ClInclude Include="Level.h" />
+    <ClInclude Include="IRender.h">
+      <Filter>RenderEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUBuffer.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUEnums.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUResource.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUTexture.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderContext.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderDevice.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUShader.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUVertexFormat.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUResourceStatistic.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h" />
+    <ClInclude Include="RenderVisual.h">
+      <Filter>RenderEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GPURenderTarget.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUDepthStencilBuffer.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="GPUViewport.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderTarget.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="RenderState.h">
+      <Filter>RenderEngine\GPUBackend</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="BuildInfo.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="NonCopyable.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="RenderEngine">
+      <UniqueIdentifier>{370b8dc0-f501-4389-9268-de709235b379}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RenderEngine\GPUBackend">
+      <UniqueIdentifier>{88b69bc1-ac9f-40b0-8b11-4479ba9382f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{b67f36e0-88a6-481f-97f8-b1764d214b70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

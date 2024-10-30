@@ -29,7 +29,7 @@ VSOutput main(VSInput input)
     
     output.pos = mul(mvp, float4(input.pos, 1.0f));
     output.color = float4(input.color, 1.0f);
-    output.norm = mul(mvp, float4(input.norm, 1.0f));
+    output.norm = normalize(mul(modelMat, float4(input.norm, 1.0f)));
     output.uv = input.uv;
     
 	return output;
